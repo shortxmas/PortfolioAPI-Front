@@ -11,16 +11,16 @@ function App() {
         <>
       <div className="navbar navbar-expand-sm navbar-dark bg-dark">
         <div className="container">
-          <a className="navbar-brand">
+          <div className="navbar-brand">
               
               
-              <a className="nav-link">
+              <div className="nav-link">
                   <img src={Logo} width="85" className="d-inline-block align-top"></img>
-              </a>
+              </div>
               
               
 
-          </a>
+          </div>
           
           <div className="collapse navbar-collapse" id="nav">
             <ul className="navbar-nav navbar-right">

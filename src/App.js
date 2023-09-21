@@ -15,7 +15,7 @@ function App() {
               
               
               <div className="nav-link">
-                  <img src={Logo} width="85" className="d-inline-block align-top"></img>
+                  <img src={Logo} width="85" className="d-inline-block align-top" alt=""></img>
               </div>
               
               
